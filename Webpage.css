@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+
+a:link{
+    color: black;
+    text-decoration:none;
+    text-align: end;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a:hover{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
